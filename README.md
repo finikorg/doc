@@ -1,4 +1,6 @@
 Talks and articles
 ==================
 
-[2019. Embedded Linux Conference Europe. Writing Your Own Gadget with Zephyr OS](2019-ELCE-WYOG-eng.pdf)
+* Embedded Linux Conference Europe, 2019. [Writing Your Own Gadget with Zephyr OS](2019-ELCE-WYOG-eng.pdf)
+* Wireless mini-summit, 2012. [Bluetooth High Speed and Virtual / Soft AMP Controller for mac80211](2012-wireless-mini-summit-BT-High-Speed-SoftAMP-mac80211.pdf)
+* Hakin9 article, 2012. [Decoding and Decrypting Bluetooth High Speed with Wireshark](Hakin9-07-2012-Decoding-BT-High-Speed-Wireshark.pdf)
